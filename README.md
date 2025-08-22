@@ -1,4 +1,4 @@
-### Olá! 👋 Sou o [Josias Toledo]
+### Olá! 👋 Sou o Josias Toledo
 
 Sou técnico multiskill em fibra óptica e estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
 
