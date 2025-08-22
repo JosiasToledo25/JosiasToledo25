@@ -1,16 +1,19 @@
-## Hi there 👋
+### Olá! 👋 Sou o [Josias Toledo]
 
-<!--
-**JosiasToledo25/JosiasToledo25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou técnico multiskill em fibra óptica e estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
 
-Here are some ideas to get you started:
+Estou em transição de carreira, buscando unir minha sólida experiência em infraestrutura de redes com o aprendizado em desenvolvimento de software. Acredito que essa fusão de conhecimentos me permitirá criar soluções mais completas e inovadoras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🛠️ Tecnologias que estou aprendendo:
+
+* Lógica de Programação
+* [HTML,CSS,PHYTON]
+
+---
+
+#### 🤝 Vamos nos conectar!
+
+* **LinkedIn:** [www.linkedin.com/in/josias-toledo-130bb21b0]
+* **E-mail:** [josiastoledo47@gmail.com]
